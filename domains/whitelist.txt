@@ -8,6 +8,7 @@ alluremedia.com.au
 amazonaws.com
 android.clients.google.com
 api.ipify.org
+api.rlje.net
 app-api.ted.com
 app.plex.tv
 appleid.apple.com
@@ -103,6 +104,7 @@ login.live.com
 login.microsoftonline.com
 m.hotmail.com
 manifest.googlevideo.com
+mas-ext.amazon.com
 meta-db-worker02.pop.ric.plex.bz
 meta.plex.bz
 meta.plex.tv
